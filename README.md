@@ -1,1 +1,1 @@
-# socket.io-django-vue
+# display real data with socket.io
